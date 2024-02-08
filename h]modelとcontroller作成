@@ -1,0 +1,17 @@
+[33mcommit 23b10b3372c335763ee59171323d2047d05f4c6c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: EC2 Default User <ec2-user@ip-172-31-7-37.ap-northeast-1.compute.internal>
+Date:   Thu Feb 8 05:51:45 2024 +0000
+
+    [Start]一覧画面表示
+
+[33mcommit 9f34baf1494e7a5cbdc8273ec58bac57dbf61a8b[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: EC2 Default User <ec2-user@ip-172-31-7-37.ap-northeast-1.compute.internal>
+Date:   Thu Feb 8 02:41:32 2024 +0000
+
+    [finish]modelとcontroller作成
+
+[33mcommit 67d174e69d6437c24dc3ce77fe92952f815763b5[m
+Author: EC2 Default User <ec2-user@ip-172-31-7-37.ap-northeast-1.compute.internal>
+Date:   Thu Feb 8 01:05:38 2024 +0000
+
+    Initial Commit1
